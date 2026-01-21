@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+youtube-transcript-api
+edge-tts
+moviepy
+pillow
